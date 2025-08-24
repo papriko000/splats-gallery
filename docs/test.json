@@ -1,0 +1,74 @@
+{
+  "struct": {
+    "APP": {
+      "activeSplatId": "941993ea-8118-4793-aed7-ba5ec097587b",
+      "useTransitions": true
+    },
+    "SPLATS": {
+      "941993ea-8118-4793-aed7-ba5ec097587b": {
+        "id": "941993ea-8118-4793-aed7-ba5ec097587b",
+        "source": "941993ea-8118-4793-aed7-ba5ec097587b",
+        "matrix": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1.2246467991473532e-16,
+          0,
+          0,
+          -1.2246467991473532e-16,
+          -1,
+          0,
+          0,
+          0.06,
+          0,
+          1
+        ],
+        "transitionType": "instant"
+      }
+    },
+    "SPLAT_SOURCES": {
+      "941993ea-8118-4793-aed7-ba5ec097587b": {
+        "id": "941993ea-8118-4793-aed7-ba5ec097587b",
+        "name": "flower",
+        "url": "splats/flower.splat"
+      }
+    },
+    "SCENE": {
+      "initialCameraPosition": [
+        -6.069685475750075,
+        3.217497230548184,
+        -6.439754395579904
+      ],
+      "initialCameraTarget": [
+        0.40160902122545383,
+        0.6690280691055374,
+        0.03154010139586537
+      ]
+    }
+  },
+  "slideshowConfig": {
+    "SPLATS": {
+      "941993ea-8118-4793-aed7-ba5ec097587b": {
+        "id": "41c6d4d0-06af-466e-930f-7dc094437fd7",
+        "environment": "",
+        "environmentRotation": 0.02,
+        "environmentHeight": 36,
+        "minCameraDistance": 3.1,
+        "maxCameraDistance": 9.5,
+        "initialCameraPosition": {
+          "x": -3.487631482381105,
+          "y": 2.64408743668278,
+          "z": 1.592573475140784
+        },
+        "initialCameraTarget": {
+          "x": 0.40160902122545383,
+          "y": 0.6690280691055374,
+          "z": 0.03154010139586537
+        }
+      }
+    }
+  }
+}
